@@ -1,0 +1,9 @@
+{
+	"name": "adf4gitsample",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d6824fc0-c7a5-4279-92b3-074c60b841bc",
+		"tenantId": "cf36141c-ddd7-45a7-b073-111f66d0b30c"
+	}
+}
