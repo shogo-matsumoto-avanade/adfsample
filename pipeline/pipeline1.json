@@ -6,9 +6,18 @@
 				"name": "Append variable1",
 				"type": "AppendVariable",
 				"dependsOn": [],
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "sample",
+					"value": "111"
+				}
 			}
 		],
+		"variables": {
+			"sample": {
+				"type": "Array"
+			}
+		},
 		"annotations": []
 	}
 }
